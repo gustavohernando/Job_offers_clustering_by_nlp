@@ -1,0 +1,2 @@
+# Job_offers_clustering_by_nlp
+This work is a continuation of a previous project where I scrapped Glassdoor for elaborating a Job roles data set, taking advantage of this data set In this project we are going to cluster these job offers, using natural language processing tools (NLP) to determine if the job offers to match the title with the required skills,  reason, why we are going to use the job, offers description without tags, as a Non supervised model. 
