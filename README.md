@@ -1,5 +1,5 @@
 # Job_offers_clustering_by_nlp
-![imagen](.src\utils\01 Glassdoor Png.png)
+![imagen](src\utils\01 Glassdoor Png.png)
 
 ## Summary:  
 * Academic project developed for educational purpose as a summary of the skills developed during the Machine learning module in the Data Science Bootcamp in The Bridge. 
